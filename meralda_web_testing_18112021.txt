@@ -1,0 +1,34 @@
+1. In category Bangles filter by material not functioning.
+2. In category Bangles sort by Name and Price not working.
+3. In category Bangles "Back to top" button not working.
+4. In About us webpage Home breadcrumb redirects to error page.
+5. cursor can be changed for bangles page on add to cart.
+6. click on add to cart on bangles page multiple time it stops working.
+7. In whishlist Breadcrumb click Home redirects to error page.
+8. In whishlist, back to top dont have box its outside.
+9. product image is not clicable in whishlist.
+10. click on add to cart redirect to product page in whishlist.
+11. whishlist button in whishlist not working.
+12. clicking on center of image not working.
+13. what is the functionality of view more in whishlist.
+14. In product page click on add to cart multiple times not working
+15. after entering the quantity on product page "add to cart" not working
+16. available quantity of product in backend is 1 but that product added twice and also move for checkout with 2 quantity.
+17. scroll down to bottom of webpage then click on "jewellery". its not working
+18. scroll down to bottom of webpage then click on "our stores". its not working
+19. view button in orders in profile section redirects to error page.
+20. No option in admin panel for curated shops. 
+21. all the options in curated shop is not working.
+22. user can register using numeric values in all the required fields.
+23. In Jewellery "explore 2021 collection" not working
+24. at home page need to change the name of all buttons having "shop the look" to "shop now"
+25. there would be a option for forgot password option on login page
+26. In profile section there would be a option to change password
+27. follow us button and social media buttons are not working
+28. In Privacy policy webpage bredcrumb home click redirects to error page
+29. In Terms & Conditions webpage bredcrumb-> home, click redirects to error page
+30. images are not clicable at the bottom in shop by category.
+31. after cancelling the payment , user should be redirect to website again.
+32. unable to proceed for checkout with previously added address
+33. shipping option is not working at checkout page.
+34. unable to proceed for payment gateway by adding new address when previous address is already saved.

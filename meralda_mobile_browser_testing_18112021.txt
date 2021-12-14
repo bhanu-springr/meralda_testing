@@ -1,0 +1,11 @@
+1. subscribe button alignment at the bottom.
+2. In hamburger button "Out stores" written instead of Stores
+3. back to top is not working
+4. at checkout page bar is there with "home, jewellery, product, cart" and click on cart redirects 
+ to home page and all other option redirect to error page.
+5. check out button is not working
+6. logout option should be there
+7. click on image is not working in whishlist
+8. click on find nearest store  makes the screen little dark and non fumctioning
+9. In bangles click on price , hides the price.
+ 

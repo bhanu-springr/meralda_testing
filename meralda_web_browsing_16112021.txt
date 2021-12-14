@@ -1,0 +1,40 @@
+URL : http://meralda.scalenext.io/
+16,17-NOV-2016
+1. options not working in "Jewellery->Curated Shops" tabs.
+2. either view button should be there or image should be clickable
+4. explore 2021 collection in Jewellery tab is not working.
+5. Nothing under stores.
+6. like button on product is not working.
+7. follow us button and social media buttons are not working
+8. at bottom "jewellery" and "our stores" not working.
+9. cursor on "add to cart"
+10. fonts to be changed
+11. image should be set in the box whatever image size is
+12. hover over logo and clickable options
+13. loading screen sign while delay in loading content
+14. all the options in breadcrumbs are clicable
+15. multiple image on product by scrolling
+16. clicable elements should be highlighted while hover over
+17. add to cart/add to bag
+18. book an appointment
+19. login, cart and whishlist dropdown while hover over
+20. cart is getting updated when you buy or increase the quantity
+21. Check if the filter option whether is working exactly
+22. While sign up, super validation should be done. Only the new user can sign up.
+23. If an existing user, added a product to the shopping basket, the wishlist section during their previous 
+    login should be saved and displayed during the next login too.
+24. Email generation on each and every process during purchase should happen (sign up, product ordering, payment 
+    successful, order canceled, order received and other email triggers if any).
+25.  Check if what happens if an order is canceling after payment.
+26. 
+
+
+
+
+Functional Testing
+Usability Testing
+Security Testing
+Performance Testing
+Database Testing
+Mobile Application Testing
+A/B testing.

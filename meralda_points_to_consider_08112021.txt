@@ -1,0 +1,12 @@
+1. what if customer forgots the password.
+2. what if customer dont want to enter username and password again. [Remember me]
+3. A user tries to register with invalid credentials. Such cases should consider
+4. Specific password requirements
+5. Email format
+6. how the password can change
+7. A user presses the Back button after logging out – remains logged out.
+8. Breadcrumbs : Breadcrumbs reflect the complete user journey
+9. If a user enters an item name with a typo in search, a system displays a suggestion.
+10. A user receives an order confirmation message via an email or text message. 
+11. Order status is available in the account for registered users. 
+12. After completing the payment or cancel the payment, a user is able to continue navigating through the site.

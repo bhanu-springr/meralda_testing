@@ -1,0 +1,29 @@
+meralda.scalenext.io TESTING LOG FILE :-
+1. website loaded successfully
+2. login page open successfully
+3. login successfully and redirected to homepage
+4. meralda logo is clickable
+5. redirected to homepage
+6. redirected to Necklace and Pendants webpage
+7. redirected to Rings webpage
+8. redirected Earrings webpage
+9. redirected to Bangles webpage
+10. redirected to Estelle webpage
+11. redirected to Hues webpage
+12. redirected to Fiori webpage
+13. redirected to Diamond webpage
+14. redirected to Colorsed Gemstone webpage
+15. redirected to Ruby webpage
+16. redirected to Sapphire webpage
+17. redirected to Mother of Pearl webpage
+18. redirected to Bridal Edit webpage
+19. redirected to Collector's Edit webpage
+20. clicked on about us and redirected to about us webpage
+21. clicked on careers and redirected to careers webpage
+22. clicked on privacy-policy and redirected to privacy-policy webpage
+23. clicked on terms and condition and redirected to terms and condition webpage
+24. clicked on contact us and redirected to contact us webpage
+25. after click on FB logo it is redirected to fb page of meralda
+26. after click on Instagram logo it is redirected to Instagram page of meralda
+27. after click on Pinterest logo it is redirected to Pinterest page of meralda
+28. after click on springr logo it is redirected to springr website

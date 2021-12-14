@@ -1,0 +1,10 @@
+Meralda Website Manual Testing Bugs/Errors:
+
+1. user can register using numeric values in all the required fields.
+2. phone number and email format should be check while Sign Up.
+3. In Jewellery tab "Curated shops" row options are not working.
+4. In Jewellery "explore 2021 collection" not working
+5. click on subscribe button without entering any email id , moves to error page.
+6. after subscribing entering email id , email not received on email ID.
+7. "back to top" button is not functioning
+8. In profile tab > Orders > view button redirects to error page
