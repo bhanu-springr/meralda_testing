@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY CATEGORY > EARRINGS
+('url for earrings page is :', 'https://www.meraldajewels.com/product-cat/earrings')
+('title for earrings page is :', 'MERALDA || Earrings')

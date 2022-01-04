@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY CATEGORY > BANGLES
+('url for Bangles page is :', 'https://www.meraldajewels.com/product-cat/bangles')
+('title Bangles Edit page is :', 'MERALDA || Bangles')

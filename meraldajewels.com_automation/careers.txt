@@ -1,0 +1,3 @@
+TESTING CAREERS
+('url of careers page is : ', 'https://www.meraldajewels.com/career')
+('title of Careers page is : ', 'Meralda || Careers')

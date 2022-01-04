@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY STONE > RUBY
+('url for ruby page is :', 'https://www.meraldajewels.com/product-stone/ruby')
+('title for ruby page is :', 'MERALDA || Ruby')

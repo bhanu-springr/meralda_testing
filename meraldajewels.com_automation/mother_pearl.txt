@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY STONE > MOTHER OF PEARL
+('url for mother of pearl page is :', 'https://www.meraldajewels.com/product-stone/mother-of-pearl')
+('title for mother of pearl page is :', 'MERALDA || Mother of Pearl')

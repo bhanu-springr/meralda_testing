@@ -1,0 +1,3 @@
+TESTING JEWELLERY > CURATED SHOPS > COLLECTOR'S EDIT
+("url for Collector's Edit page is :", 'https://www.meraldajewels.com/product-collection/collectors-edit')
+("title for Collector's Edit page is :", "MERALDA || Collector's Edit")

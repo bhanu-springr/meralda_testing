@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY STONE > COLORED GEMSTONES
+('url for Colored Gemstones page is :', 'https://www.meraldajewels.com/product-stone/colored-gemstones')
+('title for Colored Gemstones page is :', 'MERALDA || Colored Gemstones')

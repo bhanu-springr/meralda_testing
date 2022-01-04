@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY CATEGORY > NECKLACES AND PENDANT
+('url for necklaces and pendant page is :', 'https://www.meraldajewels.com/product-cat/necklaces-pendants')
+('title for necklaces and pendant page is :', 'MERALDA || Necklaces & Pendants')

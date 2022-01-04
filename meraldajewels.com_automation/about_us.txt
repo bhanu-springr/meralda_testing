@@ -1,0 +1,3 @@
+TESTING ABOUT US
+('>> url of about us page is : ', 'https://www.meraldajewels.com/about-us')
+('>> title of about us page is : ', 'Meralda || About Us')

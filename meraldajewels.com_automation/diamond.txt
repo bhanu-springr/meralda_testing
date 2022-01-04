@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY STONE > DIAMOND
+('url for diamond page is :', 'https://www.meraldajewels.com/product-stone/diamond')
+('title for diamond page is :', 'MERALDA || Diamond')

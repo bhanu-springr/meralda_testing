@@ -1,0 +1,3 @@
+TESTING CONTACT US
+('url of Contact Us page is : ', 'https://www.meraldajewels.com/contact')
+('title of Contact Us page is : ', 'Meralda || Contact Us')

@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY STONE > SAPPHIRE
+('url for sapphire page is :', 'https://www.meraldajewels.com/product-stone/blue-sapphire')
+('title for sapphire page is :', 'MERALDA || Sapphire')

@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY COLLECTION > ESTELLE
+('url for estelle page is :', 'https://www.meraldajewels.com/product-collection/estelle')
+('title for estelle page is :', 'MERALDA || Estelle')

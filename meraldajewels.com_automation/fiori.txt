@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY COLLECTION > FIORI
+('url for fiori page is :', 'https://www.meraldajewels.com/product-collection/fiori')
+('title for fiori page is :', 'MERALDA || Fiori')

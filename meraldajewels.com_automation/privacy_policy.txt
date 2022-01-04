@@ -1,0 +1,3 @@
+TESTING PRIVACY POLICY
+('url of Privacy Policy page is : ', 'https://www.meraldajewels.com/privacy-policy')
+('title of Privacy Policy page is : ', 'Meralda || Privacy Policy')

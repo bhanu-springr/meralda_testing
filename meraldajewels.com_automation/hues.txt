@@ -1,0 +1,3 @@
+TESTING JEWELLERY > BY COLLECTION > HUES
+('url for hues page is :', 'https://www.meraldajewels.com/product-collection/hues')
+('title for hues page is :', 'MERALDA || Hues')

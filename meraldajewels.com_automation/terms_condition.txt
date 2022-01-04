@@ -1,0 +1,3 @@
+TESTING TERMS AND CONDITIONS
+('url of terms and condition page is : ', 'https://www.meraldajewels.com/terms-condition')
+('title of terms and condition page is : ', 'Meralda || Terms & Conditions')

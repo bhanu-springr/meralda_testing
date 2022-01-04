@@ -1,0 +1,2 @@
+meralda.scalenext.io TESTING LOG FILE :-
+1. website loaded successfully
